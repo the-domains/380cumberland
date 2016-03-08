@@ -1,14 +1,28 @@
+name: 380CUMBERLAND
+favicon: null
 layout_spectrum: 0.632844
 typography_spectrum: 0.9057003
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.1021036
-  brandStrength: 1
-  saturation: 0.4731904
-  rhythmicContrast: 0.274256
   brandColors:
-    - '#A4A2A2'
-    - '#FFFFFF'
-    - '#01CD77'
-    - '#C703B4'
-    - '#0177C6'
-name: 380CUMBERLAND
+    - '#d0bd9c'
+    - '#060200'
+    - '#8c7a56'
+    - '#a12a00'
+    - '#dde8ee'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 0.75
+purpose: []
